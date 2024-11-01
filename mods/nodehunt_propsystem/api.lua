@@ -1,4 +1,5 @@
 
+propsystem = {}
 
 -- Sets a players model and texture to the same as a node, currently only supports full node nodes
 function propsystem.set_player_node(player,node)
