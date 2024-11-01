@@ -1,2 +1,2 @@
 # NodeHunt
-Prophunt but on Luanti
+Prophunt implemented for Luanti
